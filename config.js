@@ -1,7 +1,4 @@
-// Constants for API
-const SHEET_ID = '1dU5Fa_8m6Uw4HQ3WTSncs9Bhe449ML-aSbAoPmT1o1c';
-const API_KEY = 'AIzaSyB5BEgCG89XWYeslo4jwSUdcWvkLo-BjF0';
-const RANGE = 'Data!A:J';
+
 
 // Fetch data from Google Sheets
 async function fetchData() {
